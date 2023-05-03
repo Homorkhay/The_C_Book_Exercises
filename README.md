@@ -5,11 +5,11 @@
 ### modify the temperature conversion program to print a heading 
 above the table
 
-|...|..... |
-| 0 | 17.8 |
-|20 | -6.7 |
-|40 | 4.4  |
-|...| ....  |
+| -------- | -------- |
+| 0        | 17.8     |
+| 20       | -6.7     |
+| 40       | 4.4      |
+|.....     | ....     |
 
 ## Exercise1-5
 ### Modify the temperature conversion program to print the table in 
