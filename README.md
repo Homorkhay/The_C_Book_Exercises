@@ -2,8 +2,7 @@
 ## The aim and the goal of this repository is to leverage my knowledge on C programming with the exercises in the C Book second Edition
  
 ## Exercise1-3
-### modify the temperature conversion program to print a heading 
-above the table
+### modify the temperature conversion program to print a heading above the table
 
 | -------- | -------- |
 | 0        | 17.8     |
@@ -12,8 +11,7 @@ above the table
 |.....     | ....     |
 
 ## Exercise1-5
-### Modify the temperature conversion program to print the table in 
-reverse order, that is, from 300 degrees to 0
+### Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0
 
 |.....| ......|
 | 0   | 17.8  |
