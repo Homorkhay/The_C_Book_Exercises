@@ -1,5 +1,5 @@
 # Personal Development
-## The aim and the goal of this reppsitory is to leverage my knowledge on C programming with the exercises in the C Book second Edition
+## The aim and the goal of this repository is to leverage my knowledge on C programming with the exercises in the C Book second Edition
  
 ## Exercise1-3
 ### modify the temperature conversion program to print a heading 
